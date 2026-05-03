@@ -4,11 +4,10 @@
 Raya Alqahtani
 
 ## القسم:
-اكتب قسمك هنا
+اكتبي قسمك هنا
 
 ## وصف المشروع:
-تطبيق Flutter يوضح التنقل بين الصفحات باستخدام Navigation 
-مثل الانتقال من القائمة الرئيسية إلى صفحة المنتجات وصفحة التفاصيل.
+تطبيق Flutter يوضح التنقل بين الصفحات باستخدام Navigation.
 
 ---
 
@@ -32,11 +31,7 @@ Raya Alqahtani
 ### لقطات إضافية
 
 ![Screen 1](screenshots/screen_1.png)
-
 ![Screen 2](screenshots/screen_2.png)
-
 ![Screen 3](screenshots/screen_3.png)
-
 ![Screen 4](screenshots/screen_4.png)
-
 ![Screen 5](screenshots/screen_5.png)
